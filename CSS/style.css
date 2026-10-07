@@ -1,28 +1,41 @@
-
-  h2{
-    background-color: rgb(255, 149, 0);
-            color: rgb(43, 226, 67);
-  }  
-  
-  .backround{
-    background-color: rgb(10, 81, 43);
+.card{
+    padding: 10px;
+    background-color: bisque;
+    border: 10px;
     
-  }
+}
 
-  .textAlignment{
-    text-align: justify;
-  }
+.cardTitle{
+    
+    padding: 10px;
+    color: rgba(75, 42, 165, 0.879);
+    border-color: bisque;
+    
+    
+}
 
-  .odd{
-    background-color: blueviolet;
-  }
+.cardImg{
+    padding: 5px;
+    border-width: 0cqmin;
+    border-style: dotted;
+    background-color:blue
+    
 
-    .even{
-        background-color: aqua;
+}
 
-    }
+.cardDesc{
+    padding: 5px;
+    color: rgb(78, 43, 13);
+   background-origin: padding-box;
+   text-align:center;
+   
 
-    #title{
-        background-color: bisque;
+}
+.cardbtn{
+    padding: 12px;
+    color: blue;
+    background-origin: padding-box;
+    border-color: black;
+    background-color:brown
+}
 
-    }
