@@ -1,8 +1,28 @@
- h1{
-            text-align: center;
-            background-color: rgb(255, 0, 157);
-            color: blueviolet;
 
+  h2{
+    background-color: rgb(255, 149, 0);
+            color: rgb(43, 226, 67);
+  }  
+  
+  .backround{
+    background-color: rgb(10, 81, 43);
+    
+  }
 
-        }
-        
+  .textAlignment{
+    text-align: justify;
+  }
+
+  .odd{
+    background-color: blueviolet;
+  }
+
+    .even{
+        background-color: aqua;
+
+    }
+
+    #title{
+        background-color: bisque;
+
+    }
